@@ -32,9 +32,11 @@ Archpool/return_settings():
 Go to Examples.ipynb and hit run button.
 
 ### Citation ###
-    @inproceedings{wangtopogan, 
-    author = {Wang, Fan and Liu, Huidong and Samaras, Dimitris and Chen, Chao}, 
-    title = {TopoGAN: A Topology-Aware Generative Adversarial Network}, 
-    year = {2020}, 
-    booktitle = {Proceedings of European Conference on Computer Vision}, 
+    @inproceedings{osti_10302910, 
+    author = {Wang, Fan and Kapse, Saarthak and Liu, Steven and Prasanna, Prateek and Chen, Chao},
+    title = {TopoTxR: A Topological Biomarker for Predicting Treatment Response in Breast Cancer}, 
+    url = {https://par.nsf.gov/biblio/10302910},
+    DOI = {10.1007/978-3-030-78191-0_30},
+    year = {2021}, 
+    journal = {International conference on Information Processing in Medical Imaging (IPMI)}, 
     }
