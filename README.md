@@ -30,3 +30,11 @@ Archpool/return_settings():
 - data_path2: path to your training folder 2
 
 Go to Examples.ipynb and hit run button.
+
+### Citation ###
+@inproceedings{wangtopogan, 
+  author = {Wang, Fan and Liu, Huidong and Samaras, Dimitris and Chen, Chao}, 
+  title = {TopoGAN: A Topology-Aware Generative Adversarial Network}, 
+  year = {2020}, 
+  booktitle = {Proceedings of European Conference on Computer Vision}, 
+}
