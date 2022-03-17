@@ -32,11 +32,20 @@ Archpool/return_settings():
 Go to Examples.ipynb and hit run button.
 
 ### Citation ###
-    @inproceedings{osti_10302910, 
-    author = {Wang, Fan and Kapse, Saarthak and Liu, Steven and Prasanna, Prateek and Chen, Chao},
-    title = {TopoTxR: A Topological Biomarker for Predicting Treatment Response in Breast Cancer}, 
-    url = {https://par.nsf.gov/biblio/10302910},
-    DOI = {10.1007/978-3-030-78191-0_30},
-    year = {2021}, 
-    journal = {International conference on Information Processing in Medical Imaging (IPMI)}, 
+    @inproceedings{WangKLPC21,
+      title = {TopoTxR: A Topological Biomarker for Predicting Treatment Response in Breast Cancer},
+      author = {Fan Wang and Saarthak Kapse and Steven Liu and Prateek Prasanna and Chao Chen},
+      year = {2021},
+      doi = {10.1007/978-3-030-78191-0_30},
+      url = {https://doi.org/10.1007/978-3-030-78191-0_30},
+      researchr = {https://researchr.org/publication/WangKLPC21},
+      cites = {0},
+      citedby = {0},
+      pages = {386-397},
+      booktitle = {Information Processing in Medical Imaging - 27th International Conference, IPMI 2021, Virtual Event, June 28-June 30, 2021, Proceedings},
+      editor = {Aasa Feragen and Stefan Sommer and Julia A. Schnabel and Mads Nielsen},
+      volume = {12729},
+      series = {Lecture Notes in Computer Science},
+      publisher = {Springer},
+      isbn = {978-3-030-78191-0},
     }
